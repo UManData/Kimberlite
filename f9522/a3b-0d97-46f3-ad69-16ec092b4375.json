@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.1",
     "comment": "",
-    "commit": "c7fc7d3f99ebaa1e7cbe9f2ac29142fcfc4fb09d",
+    "commit": "9e2b0529d36c80dded84d506917b038fcd7cb5a3",
     "conditionals": null,
     "data_reduction_software": "pychron 20.1",
     "detectors": {
@@ -104,7 +104,7 @@
         "trap": 198.93
     },
     "spec_sha": "8b448adc469725b1f30558afe3bd572bd5614c86",
-    "timestamp": "2022-05-21T21:39:26.918333",
+    "timestamp": "2022-05-21T21:39:57.940883",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
