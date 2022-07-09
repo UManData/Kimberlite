@@ -6,10 +6,63 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.004414007788249222,
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7133",
+                "uuid": "fc34f4ea-ba9a-4261-8ab2-2abedce75c1f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7134",
+                "uuid": "0aca9f3c-1ac3-43ae-b071-a60f1b1e398c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7135",
+                "uuid": "ccfe456f-9144-4f25-9a3d-9a0fc6a8c4f1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7136",
+                "uuid": "5dfe855d-abe8-42a5-a88e-aa383f30c93d"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-7137",
+                "uuid": "7c2c6d82-b894-4f7f-84ea-bdb9f947c8d3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7138",
+                "uuid": "49b36017-b602-4eeb-95dd-5d3c54d23fac"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7139",
+                "uuid": "350d8889-d990-423c-96bf-53e7bb26d79b"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-7140",
+                "uuid": "a0e0440d-d4b3-4c42-b8bb-682c0acdc21d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7141",
+                "uuid": "945d3229-3ee2-41db-814e-a1e23302edef"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7142",
+                "uuid": "49abf1ea-d595-40a8-8da4-337a8a559894"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 295.5,
+        "value": 1.0018105929613155
     },
     "H1": {
         "error": 0.0,
